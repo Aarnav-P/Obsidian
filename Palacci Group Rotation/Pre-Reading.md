@@ -4,5 +4,5 @@
 	- so-called **self-oscillation**
 	- Occurs at given σ, *elastoactive parameter*
 	- Model chain of hexbugs as series of pendulums
-	- 
+	- [1]
 		- 

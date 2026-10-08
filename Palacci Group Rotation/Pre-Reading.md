@@ -2,4 +2,4 @@ test prose
 
 $$\frac{\alpha}{\beta}$$
 
-hippopotamus
+hippopotamuses 

@@ -19,7 +19,11 @@ Elastic beams under compressive axial load will buckle at $N_{Euler}=\dfrac{\pi^
 
 LCEs are polymer networks where the network consists of mesogens or mesogens are chemically-bonded to the network. 
 → Deform reversibly under ext. stimulus
-i.e. at some T, nematic-isotropic transition causes orientation of polymer network
+i.e. at some T, nematic-isotropic transition causes formerly ordered orientation of polymer network to cluster which causes contraction along director axis.
+
+Force of contraction >> F_weight
+
+
 
 
 

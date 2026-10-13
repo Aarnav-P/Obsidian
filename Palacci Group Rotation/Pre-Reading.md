@@ -32,7 +32,8 @@ Dependent on:
 ==🟢**Synthesis**==
 See [1], Section 2.3
 
-![[Pasted image 20261013180712.png]]
+Stretched to provide temporary alignment and then UV induces polymerisation to solidify it.
+
 
 
 

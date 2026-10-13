@@ -18,6 +18,7 @@ Elastic beams under compressive axial load will buckle at $N_{Euler}=\dfrac{\pi^
 \> Consider reading the euler (1744) or the Lagrange (1770) papers to get a full understanding. <
 
 LCEs are polymer networks where the network consists of mesogens or mesogens are chemically-bonded to the network. 
+
 → Deform reversibly under ext. stimulus
 i.e. at some T, nematic-isotropic transition causes formerly ordered orientation of polymer network to cluster which causes contraction along director axis.
 
@@ -26,7 +27,9 @@ Force of contraction >> F_weight
 Dependent on:
 	Elasticity is a function of cross-linking density (read: bond density)
 	The bond itself
-	mesogen itself 
+	mesogen itself
+
+==🟢**Synthesis**==
 
 
 

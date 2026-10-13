@@ -3,8 +3,13 @@
 -  When constrained from one or more ends, can exhibit **oscillatory behaviour** [1]
 	- so-called **self-oscillation**
 Occurs at given σ, *elastoactive parameter*
--Model chain of hexbugs as series of pendulums connected by spiral springs with torsional stiffness. ∴ Restorative force applies torque$\sigma = \frac{F_Al}{C}$
-Critical parameter for σ is $\sigma_C=0.16\pm0.005$
+
+Model chain of hexbugs as series of pendulums connected by spiral springs with torsional stiffness. ∴ Restorative force applies torque
+
+$\sigma = \frac{F_Al}{C}$
+Critical parameter for σ is $\sigma_C=0.16\pm0.005$ to observer self-oscillations
+
+Oscillation can be driven by fixing both ends at some $L$ s.t. $L<l_{chain}$ given that $\sigma>\sigma_C$. 
 
 
 

@@ -15,6 +15,9 @@ Make $L\equiv L(T)$ by connecting the chain with LCE's.
 ==🔴**Buckling**==
 
 Elastic beams under compressive axial load will buckle at $N_{Euler}=\dfrac{\pi^2EI}{L^2}$ , $E$ is YM and $I$ is area moment of inertia.
+\> Consider reading the euler (1744) or the Lagrange (1770) papers to get a full understanding. <
+
+
 
 
 References 

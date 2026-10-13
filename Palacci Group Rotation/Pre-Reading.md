@@ -36,7 +36,9 @@ LCE stretched to provide temporary alignment and then UV induces polymerisation 
 \> Deformation via heat will now restore to the polymerised state.
 
 ==🔵Random Walk==
-Some gaussian perturbation to angle, from some $\cal{N}(0,\sigma^2)$. Given $n$ steps, we have some 
+Some gaussian perturbation to angle, from some $\cal{N}(0,\sigma^2)$. Given $n$ steps, we have some total angular displacement $\cal{N}(0,n\sigma^2)$ 
+- Then one defines $D_a\equiv \dfrac{\sigma^2}{2\Delta l}$ , the diffusion coefficient, where $\Delta l = v\cdot \Delta t$, yielding 
+		-  $\theta(t_0 + n\Delta t) - \theta(t_0)$ 
 
 
 

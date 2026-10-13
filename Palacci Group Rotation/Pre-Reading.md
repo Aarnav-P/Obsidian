@@ -17,7 +17,19 @@ Make $L\equiv L(T)$ by connecting the chain with LCE's.
 Elastic beams under compressive axial load will buckle at $N_{Euler}=\dfrac{\pi^2EI}{L^2}$ , $E$ is YM and $I$ is area moment of inertia. [3]
 \> Consider reading the euler (1744) or the Lagrange (1770) papers to get a full understanding. <
 
-LCEs are 
+LCEs are polymer networks where the network consists of mesogens or mesogens are chemically-bonded to the network. 
+→ Deform reversibly under ext. stimulus
+i.e. at some T, nematic-isotropic transition causes orientation of polymer network
+
+
+
+
+
+
+
+
+
+
 
 
 References 

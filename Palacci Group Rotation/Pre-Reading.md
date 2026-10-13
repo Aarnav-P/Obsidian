@@ -32,7 +32,11 @@ Dependent on:
 ==🟢**Synthesis**==
 See [1], Section 2.3
 
-Stretched to provide temporary alignment and then UV induces polymerisation to solidify it.
+LCE stretched to provide temporary alignment and then UV induces polymerisation to fix orientation.
+\> Deformation via heat will now restore to the polymerised state.
+
+==🔵Random Walk==
+Some gaussian perturbation to angle
 
 
 

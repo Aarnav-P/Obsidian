@@ -11,7 +11,7 @@ Critical parameter for σ is $\sigma_C=0.16\pm0.005$ to observer self-oscillatio
 
 Oscillation can be driven by fixing both ends at some $L$ s.t. $L<l_{chain}$ given that $\sigma>\sigma_C$. 
 Make $L\equivL(T)$ by connecting the chain with LCE's.
-
+Goriely et al., “Nonlinear Euler Buckling.”
 
 
 

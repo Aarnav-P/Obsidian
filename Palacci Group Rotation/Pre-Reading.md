@@ -36,7 +36,7 @@ LCE stretched to provide temporary alignment and then UV induces polymerisation 
 \> Deformation via heat will now restore to the polymerised state.
 
 ==🔵Random Walk==
-Some gaussian perturbation to angle
+Some gaussian perturbation to angle, from some $\cal{N}(0,\sigma^2)$. Given $n$ steps, we have some 
 
 
 

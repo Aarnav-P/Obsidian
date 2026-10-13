@@ -30,8 +30,9 @@ Dependent on:
 	mesogen itself
 
 ==🟢**Synthesis**==
+See [1], Section 2.3
 
-
+![[Pasted image 20261013180712.png]]
 
 
 

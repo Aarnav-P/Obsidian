@@ -23,7 +23,10 @@ i.e. at some T, nematic-isotropic transition causes formerly ordered orientation
 
 Force of contraction >> F_weight
 
-
+Dependent on:
+	Elasticity is a function of cross-linking density (read: bond density)
+	The bond itself
+	mesogen itself 
 
 
 

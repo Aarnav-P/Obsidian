@@ -74,6 +74,8 @@ Implying that actually this is being modelled as some linear spring with spring 
 
 ==🟠Experimental Results==
 
+![[Pasted image 20261014143318.png|608]]
+WTF is this tracking?
 
 
 References 

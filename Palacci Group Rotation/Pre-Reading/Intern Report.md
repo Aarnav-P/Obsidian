@@ -77,6 +77,18 @@ Implying that actually this is being modelled as some linear spring with spring 
 ![[Pasted image 20261014143318.png|608]]
 WTF is this tracking?
 
+Point being that given that the first buckling mode is stable under contraciton, the hexbot chain will end up circling a heat source. But it's not to apparent to me that it prefers to circle the heat source because of the heat. 
+
+\> Say, if we take some heat source, why should buckling not occur on the other side and drive motion away? 
+.              ___
+ Heat  /          \
+.        /               \
+.      ↑                ↓
+.      |                /
+.       \ --------/
+
+More to the point, is the heat gradient so strong that moving away from the heat source will induce some greater strain on the near side than the far side and force buckling towards the heat source? Fig 22e compared to Fig 22a seems to indicate that it is at least true that there is "tracking" going on as a result of buckling
+ 
 
 References 
 

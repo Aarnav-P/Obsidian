@@ -41,8 +41,8 @@ Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given 
 		-  $\theta(t_0 + n\Delta t) - \theta(t_0) \sim \mathcal{N}(0,2D_aL)$   
 - Then we can define $\vec{X_n}=(x_n,y_n,\theta_n)$, and your persistence length $\langle\cos\theta\rangle$ is                               $\langle\cos(\theta(t_0 + n\Delta t) - \theta(t_0))\rangle$ which is $\Re(\langle e^{i(\theta(t_0 + n\Delta t) - \theta(t_0))}\rangle)$ 
 - $\langle e^{ikX}\rangle = e^{-k^2\sigma^2/2}$ for $X\sim \mathcal{N}(0,\sigma^2)$
-
-
+		$\therefore$ $\langle\cos\theta\rangle = \Re(e^{-2D_aL/2}) = \Re(e^{-D_aL})$
+Hence $D_a$ is the persistence length
 
 
 

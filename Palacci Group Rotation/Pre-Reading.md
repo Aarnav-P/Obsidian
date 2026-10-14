@@ -57,3 +57,4 @@ References
 [1] E. Zheng, M. Brandenbourger, L. Robinet, P. Schall, E. Lerner, and C. Coulais, “Self-Oscillation and Synchronization Transitions in Elastoactive Structures,” _Phys. Rev. Lett._, vol. 130, no. 17, p. 178202, Apr. 2023, doi: [10.1103/PhysRevLett.130.178202](https://doi.org/10.1103/PhysRevLett.130.178202).
 [2 ]D. Grober, T. Dhar, D. Saintillan, and J. Palacci, The hydrodynamic torque dipole from rotary bacterial flagella powers symmetric discs, Nat. Phys. **22**, 620 (2026).
 [3] A. Goriely, R. Vandiver, and M. Destrade, Nonlinear Euler buckling, Proc. R. Soc. A. **464**, 3003 (2008).
+

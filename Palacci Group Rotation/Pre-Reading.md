@@ -36,16 +36,16 @@ LCE stretched to provide temporary alignment and then UV induces polymerisation 
 \> Deformation via heat will now restore to the polymerised state.
 
 ==🔵Random Walk==
-Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given $n$ steps, we have some total angular displacement $\cal{N}(0,n\sigma^2)$ 
+Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given $n$ steps, we have some total angular displacement $\cal{N}(\mu,n\sigma^2)$ 
 - Then one defines $D_a\equiv \dfrac{\sigma^2}{2\Delta l}$ , the diffusion coefficient, where $\Delta l = v\cdot \Delta t$, yielding 
-		-  $\theta(t_0 + n\Delta t) - \theta(t_0) \sim \mathcal{N}(0,2D_aL)$   
+		-  $\theta(t_0 + n\Delta t) - \theta(t_0) \sim \mathcal{N}(\mu,2D_aL)$   
 - Then we can define $\vec{X_n}=(x_n,y_n,\theta_n)$, and your persistence length $\langle\cos\theta\rangle$ is                               $\langle\cos(\theta(t_0 + n\Delta t) - \theta(t_0))\rangle$ which is $\Re(\langle e^{i(\theta(t_0 + n\Delta t) - \theta(t_0))}\rangle)$ 
-- $\langle e^{ikX}\rangle = e^{-k^2\sigma^2/2}$ for $X\sim \mathcal{N}(0,\sigma^2)$
+- $\langle e^{ikX}\rangle = e^{ik\mu -k^2\sigma^2/2}$ for $X\sim \mathcal{N}(\mu,\sigma^2)$
 		$\therefore$ $\langle\cos\theta\rangle = \Re(e^{-2D_aL/2}) = \Re(e^{-D_aL})$
 Hence $D_a$ is the persistence length
 
 Then by camera tracking the hexbug one can *experimentally determine* $\sigma$.
-
+Turns out that actually $\mu$ was non-zero and persistence length was about $l_p=2.3m$ for a hexbot which effectively means that 
 
 
 

@@ -69,6 +69,7 @@ Implying that actually this is being modelled as some linear spring with spring 
 
 ==🔴**Data Acquisition**==
 - 1 hour of collection time for 30,000 points for a Gaussian fit.... why?
+-  avg mass to add is also calculated in a funny way...
 
 
 

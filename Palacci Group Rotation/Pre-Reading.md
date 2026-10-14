@@ -39,7 +39,8 @@ LCE stretched to provide temporary alignment and then UV induces polymerisation 
 Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given $n$ steps, we have some total angular displacement $\cal{N}(0,n\sigma^2)$ 
 - Then one defines $D_a\equiv \dfrac{\sigma^2}{2\Delta l}$ , the diffusion coefficient, where $\Delta l = v\cdot \Delta t$, yielding 
 		-  $\theta(t_0 + n\Delta t) - \theta(t_0) \sim \mathcal{N}(0,2D_aL)$   
-- Then we can define $\vec{X_n}=(x_n,y_n,\theta_n)$, and your step in $\vec x$ z.B. is cos  
+- Then we can define $\vec{X_n}=(x_n,y_n,\theta_n)$, and your persistence length $\langle\cos\theta\rangle$ is                               $\langle\cos(\theta(t_0 + n\Delta t) - \theta(t_0))\rangle$ which is $\Re(\langle e^{i(\theta(t_0 + n\Delta t) - \theta(t_0))}\rangle)$ 
+- $\langle e^ik
 
 
 

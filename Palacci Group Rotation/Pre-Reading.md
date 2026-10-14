@@ -44,7 +44,7 @@ Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given 
 		$\therefore$ $\langle\cos\theta\rangle = \Re(e^{-2D_aL/2}) = \Re(e^{-D_aL})$
 Hence $D_a$ is the persistence length
 
-
+Then by camera tracking the hexbug one can *experimentally determine* $\sigma$.
 
 
 

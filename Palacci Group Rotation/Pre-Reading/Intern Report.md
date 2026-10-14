@@ -53,12 +53,18 @@ Turns out that actually $\mu$ was non-zero and persistence length was about $l_p
 **==🟣Active Chain**==
 
 Printing with TPU  (Thermoplastic Urethane) because PLA is too rigid and snaps instead of buckling
-
 Joint width  = 3mm
 
+![[Pasted image 20261014140618.png|340]]
 
+This diagram is a bit weird to me, seems unclear where the spring is exactly or the orientation and as susch is isnt clear why Δθ is as labelled.
 
+Also report seems to say that even though it's typically $\tau = \kappa\theta$  or $Fl = C\theta$ that instead it ought be $\dfrac{Fl}{2} = C\theta$  and I don't see why that would be true.
 
+but whatever, *small-angle approximation* gives $C = Fl^2/\Delta h$ 
+but then 
+![[Pasted image 20261014140955.png]]
+Implying that actually this is being modelled as some linear spring?
 
 References 
 

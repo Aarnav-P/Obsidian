@@ -62,9 +62,16 @@ This diagram is a bit weird to me, seems unclear where the spring is exactly or 
 Also report seems to say that even though it's typically $\tau = \kappa\theta$  or $Fl = C\theta$ that instead it ought be $\dfrac{Fl}{2} = C\theta$  and I don't see why that would be true.
 
 but whatever, *small-angle approximation* gives $C = Fl^2/\Delta h$ 
+
 but then 
 ![[Pasted image 20261014140955.png]]
-Implying that actually this is being modelled as some linear spring?
+Implying that actually this is being modelled as some linear spring with spring constant $a$? Ok clearly $C$ should be something more of a function of F or Δh but it's workable. 
+
+==🔴**Data Acquisition**==
+- 1 hour of collection time for 30,000 points for a Gaussian fit.... why?
+
+
+
 
 References 
 

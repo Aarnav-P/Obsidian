@@ -45,11 +45,17 @@ Some gaussian perturbation to angle, from some $\mathcal{N}(0,\sigma^2)$. Given 
 Hence $D_a$ is the persistence length
 
 Then by camera tracking the hexbug one can *experimentally determine* $\sigma$.
+
 Turns out that actually $\mu$ was non-zero and persistence length was about $l_p=2.3m$ for a hexbot which effectively means that for a boundary of $d<l_p$ we expect that there is not enough space to achieve random diffusive movement.
 
 \> Makes sense then why the hexbugs would collide with the boundary, and especially if μ < 0 then they will stay stuck on average for counter-clockwise rotation and peel away for clockwise.
 
 **==🟣Active Chain**==
+
+Printing with TPU  (Thermoplastic Urethane) because PLA is too rigid and snaps instead of buckling
+
+Joint 
+
 
 
 

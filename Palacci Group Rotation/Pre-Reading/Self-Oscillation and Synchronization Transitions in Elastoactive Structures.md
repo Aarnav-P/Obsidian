@@ -20,5 +20,6 @@ I'm not convinced by this measure, your final hexbug may well point in the same 
 They also provide "Mean Polarisation" $$\Omega(t) = 1/N \, \sum^{N}_{i=1}\theta_i(t)$$
 Which is fine. *Worth considering: does one need a measure of "bendiness"?*
 
-**meaning of limit 
+==🟣**meaning of limit cycle?**==
+
 

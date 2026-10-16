@@ -19,7 +19,8 @@ I'm not convinced by this measure, your final hexbug may well point in the same 
 
 They also provide "Mean Polarisation" $$\Omega(t) = 1/N \, \sum^{N}_{i=1}\theta_i(t)$$
 Which is fine. *Worth considering: does one need a measure of "bendiness"?*
+\-- Apparent answer is no, Fig 2 shows the limit cycles are clearly visible with these two measures.
 
-==🟣**meaning of limit cycle?**==
+==🟣**meaning of limit cycle?**== - strict def needed but looks like a closed loop trajectory in parameter space
 
-
+==🟣virtual work theorem?==

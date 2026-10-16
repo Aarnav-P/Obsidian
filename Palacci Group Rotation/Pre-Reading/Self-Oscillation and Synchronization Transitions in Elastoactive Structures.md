@@ -1,4 +1,5 @@
 **Paper intention**
+
 Find and explore a model for 1D elastoactive structures
 
 **Main findings**
@@ -26,4 +27,7 @@ Which is fine. *Worth considering: does one need a measure of "bendiness"?*
 ==🟣virtual work theorem?== - and what do they mean about the system of DAEs 
 Why would you want the eigenvalues of the jacobian of eq 1 and eq 2
 
-They show it is a supercritical Hopf bifurcation for self-oscillations 
+They show it is a supercritical Hopf bifurcation for transition to self-oscillation
+\-- Would like to see this through redoing eq 1 and 2
+
+

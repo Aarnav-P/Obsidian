@@ -1,4 +1,4 @@
-==🟡**Report from Éloi:**==
+**Report from Éloi:**
 -  Hexbugs in a confined flexible band can explore a 2D space.
 -  When constrained from one or more ends, can exhibit **oscillatory behaviour** [1]
 	- so-called **self-oscillation**

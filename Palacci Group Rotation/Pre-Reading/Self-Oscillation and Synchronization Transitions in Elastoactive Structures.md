@@ -23,4 +23,4 @@ Which is fine. *Worth considering: does one need a measure of "bendiness"?*
 
 ==🟣**meaning of limit cycle?**== - strict def needed but looks like a closed loop trajectory in parameter space
 
-==🟣virtual work theorem?==
+==🟣virtual work theorem?== - and what do they mean about the system of DAEs 

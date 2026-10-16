@@ -12,3 +12,9 @@ Find and explore a model for 1D elastoactive structures
 Silicon chain of given width (Stiffness fn of width) links hexbugs.
 Chain pinned at one end, small deflection given to tip of unpinned end and subsequent motion tracked.
 Repeated for chains of varying width.
+![[Pasted image 20261016115931.png|402]]![[Pasted image 20261016115944.png|407]]
+
+They try to capture this with a "Mean curvature" $$\Theta(t) = \sum^{N-1}_{i=1}\theta_{i+1}(t)-\theta_i(t)=\theta_N-\theta_1$$
+I'm not convinced by this measure, your final hexbug may well point in the same direction as the initial one with a long enough chain. There should be some sort of mean squared deflection instead weighted by $N$ in my opinion.
+
+They also provide "Mean Polarisation" $$\Omega(t) = 1/N \, \sum^{N_{i=1}\theta_i(t)$$

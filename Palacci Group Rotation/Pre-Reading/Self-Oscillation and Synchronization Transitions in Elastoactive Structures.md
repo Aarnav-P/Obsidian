@@ -30,4 +30,6 @@ Why would you want the eigenvalues of the jacobian of eq 1 and eq 2
 They show it is a supercritical Hopf bifurcation for transition to self-oscillation
 \-- Would like to see this through redoing eq 1 and 2
 
+==🟣Not clear exactly what self-snapping constitutes==
+
 

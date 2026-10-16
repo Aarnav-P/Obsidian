@@ -17,4 +17,8 @@ Repeated for chains of varying width.
 They try to capture this with a "Mean curvature" $$\Theta(t) = \sum^{N-1}_{i=1}\theta_{i+1}(t)-\theta_i(t)=\theta_N-\theta_1$$
 I'm not convinced by this measure, your final hexbug may well point in the same direction as the initial one with a long enough chain. There should be some sort of mean squared deflection instead weighted by $N$ in my opinion.
 
-They also provide "Mean Polarisation" $$\Omega(t) = 1/N \, \sum^{N_{i=1}\theta_i(t)$$
+They also provide "Mean Polarisation" $$\Omega(t) = 1/N \, \sum^{N}_{i=1}\theta_i(t)$$
+Which is fine. *Worth considering: does one need a measure of "bendiness"?*
+
+**meaning of limit 
+

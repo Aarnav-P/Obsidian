@@ -35,3 +35,8 @@ They show it is a supercritical Hopf bifurcation for transition to self-oscillat
 Synchronisation can occur more easily for similar elastoactive numbers or if closer to bifurcation
 	Here, "closer to bifurcation" means $σ$'s are closer to $\sigma_c$'s for given $N$.
 	And "more easily" means that the coupling spring can have a lower stiffness.
+
+Supplementary material
+-- 
+I think most of the interesting stuff should really be here. Try not to spend too much time on the theory I think.
+

@@ -8,3 +8,5 @@ Find and explore a model for 1D elastoactive structures
 - Two elastoactive chains can synchronise via "elastically driven alignment"
 	- Contrapose to active fluids
 	
+**Methodology**
+Silicon chain of g

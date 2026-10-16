@@ -25,3 +25,5 @@ Which is fine. *Worth considering: does one need a measure of "bendiness"?*
 
 ==🟣virtual work theorem?== - and what do they mean about the system of DAEs 
 Why would you want the eigenvalues of the jacobian of eq 1 and eq 2
+
+They show it is a supercritical Hopf bifurcation for self-oscillations 

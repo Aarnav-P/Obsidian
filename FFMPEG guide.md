@@ -1,4 +1,7 @@
 Quick reference on how to use ffmpeg in terminal for Linux users with examples 
+
+Note: Linux is case-sensitive so .mp4 is **incorrect** ­— it's .MP4 instead.
+Note: The timestamp for milliseconds is a point not a colon because it's decimalised, bozo.
 ### Extracting frames from a video
 
 #### Extract one frame at timestamp

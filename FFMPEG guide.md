@@ -11,7 +11,7 @@ Note: The timestamp for milliseconds is a point not a colon because it's decimal
 #### Extract one frame by frame number
 Frame numbers start at 0.
 
-``ffmpeg -i input.mp4 -vf "select=eq(n,150)" -frames:v 1 frame_150.png
+``ffmpeg -i input.mp4 -vf "select=eq(n\,10)" -frames:v 1 frame_150.png
 
 #### Extract all frames
 

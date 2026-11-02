@@ -57,7 +57,7 @@ Joint width  = 3mm
 
 ![[Pasted image 20261014140618.png|340]]
 
-This diagram is a bit weird to me, seems unclear where the spring is exactly or the orientation and as susch is isnt clear why Δθ is as labelled.
+This diagram is a bit weird to me, seems unclear where the spring is exactly or the orientation and as such it isn't clear why Δθ is as labelled.
 
 Also report seems to say that even though it's typically $\tau = \kappa\theta$  or $Fl = C\theta$ that instead it ought be $\dfrac{Fl}{2} = C\theta$  and I don't see why that would be true.
 

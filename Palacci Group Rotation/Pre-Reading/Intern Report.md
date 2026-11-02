@@ -77,7 +77,7 @@ Implying that actually this is being modelled as some linear spring with spring 
 ![[Pasted image 20261014143318.png|608]]
 WTF is this tracking? Anyways, important to note this is probably the same video.
 
-Point being that given that the first buckling mode is stable under contraciton, the hexbot chain will end up circling a heat source. But it's not to apparent to me that it prefers to circle the heat source because of the heat. 
+Point being that given that the first buckling mode is stable under contraction, the hexbot chain will end up circling a heat source. But it's not to apparent to me that it prefers to circle the heat source because of the heat. 
 
 \> Say, if we take some heat source, why should buckling not occur on the other side and drive motion away? 
 .              ___

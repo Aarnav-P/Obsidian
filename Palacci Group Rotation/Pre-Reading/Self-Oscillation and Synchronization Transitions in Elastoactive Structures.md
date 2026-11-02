@@ -43,3 +43,6 @@ Note (02/11)
 In 2a we appear to see a chain heavily in the self-oscillating regime but the blue line in 2b and the blue limit cycle in 2c disagree. The picture in 2a is also supposed to be with W=17.7mm which is supposed to be well above the point W = 4.5mm around where self-oscillations emerge.
 
 Most likely, it's just the wrong image.
+
+Also: 
+![[Pasted image 20261102105700.png]]N = 7, 5cm? instead of N=75 cm?
